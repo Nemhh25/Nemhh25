@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, JS**
 
-- 👯 I’m looking to **job**
+- 👯 I’m looking to a **job**
 
 - 👨‍💻 All of my projects are available at [github.com/Nemhh25](github.com/Nemhh25)
 
