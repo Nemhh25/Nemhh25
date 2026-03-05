@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Cybersecurity**
 
-- 🌱 I’m currently learning **Python, JS**
+- 🌱 I’m currently learning **Python, Java**
 
 - 👯 I’m looking to a **job**
 
